@@ -2,6 +2,8 @@
 
 Expense Tracker is a Python application that helps you track your daily expenses. It allows you to add, view, and delete expenses and categories and visualize your spending patterns using pandas and matplotlib.
 
+For me, I've loaded in some data randomly created by ChatGPT, manipulated by Pandas, and visualized them by Matplotlib. Feel free to use my ipynb file as a reference! 
+
 ## Features
 
 1. **Add a new expense**: Record a new expense with the amount, date, category, and description.
