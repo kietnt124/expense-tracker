@@ -1,10 +1,10 @@
 # Expense Tracker
 
-Expense Tracker is a Python application to help you track your daily expenses. It allows you to add, view, delete expenses and categories, and visualize your spending patterns using pandas and matplotlib.
+Expense Tracker is a Python application that helps you track your daily expenses. It allows you to add, view, and delete expenses and categories and visualize your spending patterns using pandas and matplotlib.
 
 ## Features
 
-1. **Add a new expense**: Record a new expense with amount, date, category, and description.
+1. **Add a new expense**: Record a new expense with the amount, date, category, and description.
 2. **Add a new category**: Create a new expense category.
 3. **Delete an expense**: Remove an expense by its ID.
 4. **Delete a category**: Remove a category and all associated expenses by its ID.
@@ -26,7 +26,7 @@ Expense Tracker is a Python application to help you track your daily expenses. I
     expenses.py
     ```
 
-2. Follow the menu prompts to add, view, and manage your expenses.
+2. Follow the menu prompts to add, view, and manage expenses.
 
 
 ## Planned Features
